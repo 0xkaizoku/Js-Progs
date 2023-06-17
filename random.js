@@ -1,3 +1,3 @@
 
-const x = Math.random();
+const x = Math.random(); //function
 console.log(x);
