@@ -4,7 +4,7 @@ var b = prompt('Enter the second variable: ');
 
 var temp;
 
-temp = a;
+temp = a; //temporary variable
 a = b;
 b = temp;
 
